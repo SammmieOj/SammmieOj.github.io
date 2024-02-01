@@ -3,7 +3,7 @@ title               : Grx Tech World
 description         : >-
                       I bring your imagination to life
                       in so many diverse ways.
-baseurl             : "/sammmieoj.github.io"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : SammmieOj/sammmieoj.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : SammmieOj/sammmieoj.github.io
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -30,9 +30,9 @@ author:
 # dribbble          : your_username
   email             : granxtech@gmail.com
   #facebook          : your_username
-  github            : your_username
+  github            : SammmieOj
 # gitlab            : your_username
-instagram         : your_username
+instagram         : OjSammie
 # kaggle            : your_username
   linkedin          : your_username
   #medium            : your_username
